@@ -10,7 +10,7 @@ Instructions:
 
 2: Open a cmd window in the directory containing the weather_spacer.py file.
 
-3: Run the file with the following command: weather_spacer.py <INPUT FILE NAME> <OUTPUT FILE NAME>
+3: Run the file with the following command: weather_spacer.py INPUT_FILE_NAME.csv OUTPUT_FILE_NAME.csv
 
 Example: weather_spacer.py QBHA3.csv QBHA3_formatted.csv
 
