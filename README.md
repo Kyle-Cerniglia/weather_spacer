@@ -7,7 +7,11 @@ Link: https://www.python.org/downloads/
 
 Instructions:
 1: Copy your .csv file containing your weather data to the folder containing the weather_spacer.py file.
+
 2: Open a cmd window in the directory containing the weather_spacer.py file.
+
 3: Run the file with the following command: weather_spacer.py <INPUT FILE NAME> <OUTPUT FILE NAME>
+
 Example: weather_spacer.py QBHA3.csv QBHA3_formatted.csv
+
 4: Script will read data from the INPUT FILE NAME, then create a new file called OUTPUT FILE NAME and dump the corrected data there.
