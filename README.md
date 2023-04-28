@@ -5,7 +5,8 @@ An application that will insert empty rows into a .csv file where there is missi
 Requires Python 3.11.3 or newer to be installed.
 Link: https://www.python.org/downloads/
 
-Instructions:
+INSTRUCTIONS:
+
 1: Copy your .csv file containing your weather data to the folder containing the weather_spacer.py file.
 
 2: Open a cmd window in the directory containing the weather_spacer.py file.
